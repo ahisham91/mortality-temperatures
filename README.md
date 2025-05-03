@@ -1,0 +1,1 @@
+Relationship between mortality and average daily temperatures in US Counties
