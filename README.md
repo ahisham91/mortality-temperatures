@@ -1,1 +1,1 @@
-Finding a relationship between mortality and average daily temperatures in US Counties
+Finding a relationship between mortality and average daily temperatures in US Counties. Data from “Climate Change, Mortality, and Adaptation: Evidence from Annual Fluctuations in Weather in the US” (Greenstone, 2011).
